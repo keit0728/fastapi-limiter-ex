@@ -1,17 +1,17 @@
 [tool.poetry]
-authors = ["long2ice <long2ice@gmail.com>"]
+authors = ["keit <keit0728.job@gmail.com>"]
 description = "A request rate limiter for fastapi"
-documentation = "https://github.com/long2ice/fastapi-limiter"
-homepage = "https://github.com/long2ice/fastapi-limiter"
+documentation = "https://github.com/keit0728/fastapi-limiter-ex"
+homepage = "https://github.com/keit0728/fastapi-limiter-ex"
 include = ["CHANGELOG.md", "LICENSE", "README.md"]
 keywords = ["fastapi", "limiter"]
 license = "Apache2.0"
-name = "fastapi-limiter"
+name = "fastapi-limiter-ex"
 packages = [
     { include = "fastapi_limiter" },
 ]
 readme = "README.md"
-repository = "https://github.com/long2ice/fastapi-limiter.git"
+repository = "https://github.com/keit0728/fastapi-limiter-ex.git"
 version = "0.1.6"
 
 [tool.poetry.dependencies]
